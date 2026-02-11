@@ -8,5 +8,6 @@ def update_user(user_id: int, name: str):
     return {
         "message": "User updated",
         "user_id": user_id,
-        "updated_name": name
+        "updated_name": name 
     }
+ 
